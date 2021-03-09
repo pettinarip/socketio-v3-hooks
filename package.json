@@ -1,5 +1,5 @@
 {
-  "name": "socketio-hooks",
+  "name": "socketio-v3-hooks",
   "version": "0.1.0",
   "description": "Package containing React Hooks for Socket IO",
   "main": "lib/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ghmendonca/socketio-hooks.git"
+    "url": "git+https://github.com/pettinarip/socketio-v3-hooks.git"
   },
   "keywords": [
     "react",
@@ -25,9 +25,9 @@
   "author": "Gustavo Mendonça",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ghmendonca/socketio-hooks/issues"
+    "url": "https://github.com/pettinarip/socketio-v3-hooks/issues"
   },
-  "homepage": "https://github.com/ghmendonca/socketio-hooks#readme",
+  "homepage": "https://github.com/pettinarip/socketio-v3-hooks#readme",
   "devDependencies": {
     "@types/react": "^16.9.2",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
